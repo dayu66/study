@@ -1,2 +1,2 @@
 # study
-# hello This is add for first use
+# hello This is startup stm32 
